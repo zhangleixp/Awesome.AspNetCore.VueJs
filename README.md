@@ -55,4 +55,5 @@ dotnet publish
 Having trouble with Project ?  
 
 - add issues .
-- Join the  qq group :436035237  ask questions  @苏州-似血残阳
+- Join the  qq group :436035237  ask questions  @苏州-多态
+- add issues .
